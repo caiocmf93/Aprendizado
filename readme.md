@@ -1,0 +1,1 @@
+Olá, esse projeto ensian a usar o Git
